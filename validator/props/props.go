@@ -2,7 +2,7 @@ package props
 
 import (
 	"errors"
-	"properties/utils"
+	"github.com/ushiosan23/go-properties/utils"
 	"strings"
 )
 

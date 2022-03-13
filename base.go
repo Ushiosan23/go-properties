@@ -3,7 +3,7 @@ package properties
 import (
 	"bufio"
 	"fmt"
-	"properties/validator/pairs"
+	"github.com/ushiosan23/go-properties/validator/pairs"
 )
 
 // ############################################################
