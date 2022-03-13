@@ -2,7 +2,7 @@ package properties
 
 import (
 	"bufio"
-	"github.com/ushiosan23/go-properties/plugins"
+	"github.com/Ushiosan23/go-properties/plugins"
 	"math/rand"
 	"os"
 	"testing"
